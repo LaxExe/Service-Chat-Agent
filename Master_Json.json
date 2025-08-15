@@ -1,0 +1,19 @@
+{
+    "navigation": [
+        {
+            "name": "locations.json",
+            "location": "file_003_locations",
+            "description": "Lists the geographic locations where the roofing company operates, including city names, service areas, and availability."
+        },
+        {
+            "name": "pricing.json",
+            "location": "file_002_pricing",
+            "description": "Outlines pricing packages for various roofing services, including cost ranges, service inclusions, and warranty details."
+        },
+        {
+            "name": "services.json",
+            "location": "file_001_services",
+            "description": "Contains a list of roofing services offered by the company, including repair, installation, inspection, and maintenance."
+        }
+    ]
+}
